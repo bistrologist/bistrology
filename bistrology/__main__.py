@@ -1,4 +1,4 @@
-#! python3
+# python3
 # this file enables "python -m bistrology" to be run in terminal
 # can equally just run this file to start program
 # ref: https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
